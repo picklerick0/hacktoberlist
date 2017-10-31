@@ -29,3 +29,4 @@ Prabhat tyagi     |[stebinben](https://github.com/stebinben)    |Python,Java,c
 Prakhar Sapre     | [prakhar10](https://github.com/prakhar10)   | Java, HTML, CSS, Javascript, Ruby
 Tom Schmidt | [sittingpilgrim](https://github.com/sittingpilgrim) | html, css, javascript, SQL, PHP
 Santiago Caamaño  | [SantiCF](https://github.com/SantiCF)          |  java, python, javascript, html, css
+Pickle Rick | [picklerick0](https://github.com/picklerick0) | java, python ,nodejs ,kali 
